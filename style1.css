@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#basic h4, #communication h4{
+    display: inline;
+    padding-right: 10px;
+}
+#basic p, #communication p{
+    display: inline;
+    padding-right: 30px;
+
+}

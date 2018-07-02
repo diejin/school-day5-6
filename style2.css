@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0 ;
+    font:12px/1.5 Tahoma;
+}
+#outer{
+    width: 500px;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+
+#aside{
+    padding-top:5%;
+    text-align: center;
+    float: left;
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    background-color: #65A5FA;
+
+    margin-bottom: -1000px;
+    padding-bottom: 1000px;
+}
+#information{
+    width: 380px;
+    float: right;
+    margin-bottom: -1000px;
+    padding-bottom: 1000px;
+    padding-left: 20px;
+}
+
+#basic h4, #communication h4{
+    display: inline;
+    padding-right: 10px;
+}
+#basic p, #communication p {
+    display: inline;
+    padding-right: 30px;
+}
